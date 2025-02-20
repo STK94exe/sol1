@@ -35,5 +35,5 @@ jobs:
     - name: List build directory
       run: dir build
 
-          - name: A dormir
+    - name: Prueba
       run: sleep 4
